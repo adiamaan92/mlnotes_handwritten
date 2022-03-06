@@ -2,8 +2,8 @@
 
 <div align='center'>
 
-# ML Handwritten notes
-## Collection of ML handwritten notes for quick revision, flashcards style!
+# 📙 ML Handwritten notes
+## ⚡ Collection of ML handwritten notes for quick revision, flashcards style!
 
 </div>
 
